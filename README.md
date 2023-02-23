@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/static/v1?label=Javascript&color=yellow&style=plastic&message="/>
-<img src="https://img.shields.io/static/v1?label=HTML&color=blue&style=plastic&message="/>
-<img src="https://img.shields.io/static/v1?label=CSS&color=orange&style=plastic&message="/>
+<img src="https://img.shields.io/static/v1?label=Javascript&color=yellow&style=plastic&message=ES6"/>
+<img src="https://img.shields.io/static/v1?label=HTML&color=blue&style=plastic&message=5"/>
+<img src="https://img.shields.io/static/v1?label=CSS&color=orange&style=plastic&message=3"/>
 
 <h1 align="center">:heavy_division_sign: Calculator</h1>
 
