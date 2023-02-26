@@ -17,7 +17,7 @@ Furthermore, it'll be nice if you have and code editor installed, like [VSCode](
 
 ### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
